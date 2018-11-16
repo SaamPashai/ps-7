@@ -31,7 +31,7 @@ export class Projects extends Component {
                     </Card>
                 )
             })}
-            <p> *The animation was not created by me. I got the code to do this from<a target="_" href="https://codepen.io/JTParrett/pen/hktzu">CodePen.</a></p>
+            <p className="cite"> *The animation was not created by me. I got the code to do this from<a target="_" href="https://codepen.io/JTParrett/pen/hktzu">CodePen.</a></p>
             <div className="cube">
                 <img className="luigi" src="https://vignette.wikia.nocookie.net/nintendo/images/e/ec/Paper_Luigi_2.png/revision/latest?cb=20171111011157&path-prefix=en" alt="luigi"></img>
             </div>
